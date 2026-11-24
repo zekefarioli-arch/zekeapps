@@ -1,4 +1,4 @@
-# Zeke Apps (public pages)
+# Zeke Labs (public pages)
 
 Static pages for my apps, served by GitHub Pages: a landing page, one page per app and its privacy policy.
 Only things that must be public live here. No code, keys or internal documents.
